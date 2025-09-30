@@ -46,3 +46,4 @@
 👉 This is especially helpful when using **ESLint / Prettier**, since they often enforce `LF` and otherwise throw line-ending errors.
 
 Do you also want me to give you a **matching Prettier + ESLint config** snippet to ensure your editor auto-fixes line endings to LF too?
+"Workflow test on 30 Sep" 
